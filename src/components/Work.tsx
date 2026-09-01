@@ -7,7 +7,7 @@ const projects = [
   {
     title: "AI Social Media Automation Agent",
     category: "Personal Project",
-    tools: "n8n, OpenAI APIs, Workflow Automation",
+    tools: "LLM APIs (OpenAI), n8n, Workflow Automation",
     image: "/images/n8n.png",
   },
   {
@@ -31,7 +31,7 @@ const projects = [
   {
     title: "AI Data Visualization Dashboards",
     category: "Enterprise Platform",
-    tools: "React, D3.js, GraphQL, TypeScript",
+    tools: "React, Next.js, D3.js, GraphQL, FastAPI",
     image: "/images/data.png",
   },
 ];

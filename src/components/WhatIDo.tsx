@@ -102,7 +102,7 @@ const WhatIDo = () => {
                 <div className="what-tags">Redux</div>
                 <div className="what-tags">D3.js</div>
                 <div className="what-tags">Material UI</div>
-                <div className="what-tags">WebSockets</div>
+                <div className="what-tags">Web Performance</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -127,19 +127,19 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
             <div className="what-content-in">
               <h3>BACKEND & AI</h3>
-              <h4>APIs, Performance & Automation</h4>
+              <h4>APIs, Real-time & Automation</h4>
               <p>
-                Building RESTful APIs and integrating AI tools. From GraphQL
-                to workflow automation, I ship scalable, production-ready systems.
+                Building GraphQL and REST APIs, real-time WebSocket services, and
+                LLM-powered tooling. I ship scalable, production-ready systems end-to-end.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
+                <div className="what-tags">Python</div>
+                <div className="what-tags">FastAPI</div>
                 <div className="what-tags">Node.js</div>
                 <div className="what-tags">Express.js</div>
                 <div className="what-tags">GraphQL</div>
-                <div className="what-tags">REST APIs</div>
-                <div className="what-tags">Python</div>
-                <div className="what-tags">FastAPI</div>
+                <div className="what-tags">WebSockets</div>
                 <div className="what-tags">OpenAI APIs</div>
                 <div className="what-tags">n8n</div>
               </div>

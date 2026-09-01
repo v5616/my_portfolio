@@ -14,6 +14,8 @@ const Contact = () => {
                 vishalsinghkharyal@gmail.com
               </a>
             </p>
+            <h4>Location</h4>
+            <p>Bengaluru, India</p>
             <h4>Education</h4>
             <p>BCA - Lovely Professional University</p>
           </div>
@@ -22,26 +24,38 @@ const Contact = () => {
             <a
               href="https://github.com/v5616"
               target="_blank"
+              rel="noopener noreferrer"
               data-cursor="disable"
               className="contact-social"
             >
               Github <MdArrowOutward />
             </a>
             <a
-              href="https://www.linkedin.com/in/vishal-singh-kharyal-9b98501ba/"
+              href="https://www.linkedin.com/in/vishalsinghkharyal/"
               target="_blank"
+              rel="noopener noreferrer"
               data-cursor="disable"
               className="contact-social"
             >
               Linkedin <MdArrowOutward />
             </a>
             <a
-              href="https://x.com/vishal_kharyal"
+              href="https://x.com/vishalkharyal"
               target="_blank"
+              rel="noopener noreferrer"
               data-cursor="disable"
               className="contact-social"
             >
               Twitter <MdArrowOutward />
+            </a>
+            <a
+              href="/Vishal_Singh_Kharyal_Resume.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              data-cursor="disable"
+              className="contact-social"
+            >
+              Resume <MdArrowOutward />
             </a>
           </div>
           <div className="contact-box">
